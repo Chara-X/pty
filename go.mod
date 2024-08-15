@@ -1,3 +1,3 @@
-module github.com/Chara-X/pty.git
+module github.com/Chara-X/pty
 
 go 1.22.4
